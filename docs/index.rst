@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-SAE Python 开发者手册
+SAE Python 开发者手册,是也乎?!
 =================================================
 
 目前SAE Python还处于测试阶段，欢迎使用。 `点此申请内测`_ 。
