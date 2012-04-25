@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-SAE Python 开发者手册,是也乎?!
+SAE Python 开发者手册
 =================================================
 
 目前SAE Python还处于测试阶段，欢迎使用。 `点此申请内测`_ 。
 
-.. _点此进入: /invite
-.. _点此申请内测: /apply
+.. _点此进入: http://appstack.sinaapp.com/invite
+.. _点此申请内测: http://appstack.sinaapp.com/apply
 
 本文档，示例代码以及本地测试server下载：  ::
 
@@ -27,15 +27,8 @@ Contents:
     faq 
 
 
-意见反馈
+反馈
 =============
 
 SAE Python 小组 http://www.douban.com/group/373262/ 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
